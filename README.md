@@ -14,7 +14,7 @@
 # pip install thrift==0.11.0
 # pip install requests
 # pip install rsa
-# git clone https://github.com/KazumiLine/SelfBot-Ver-1.5
-# cd SelfBot-Ver-1.5
+# git clone https://github.com/man
+# cd run
 # ls
-# python run.py
+# python3 run.py
